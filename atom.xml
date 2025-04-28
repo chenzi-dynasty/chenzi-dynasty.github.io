@@ -3,14 +3,7 @@
     <id>http://example.com</id>
     <title>Hexo</title>
     <link href="http://example.com" />
-    <updated>2025-04-28T06:56:15.000Z</updated>
-    <entry>
-        <id>http://example.com/2025/04/28/test/</id>
-        <title>test</title>
-        <link rel="alternate" href="http://example.com/2025/04/28/test/"/>
-        <content type="html"></content>
-        <updated>2025-04-28T06:56:15.000Z</updated>
-    </entry>
+    <updated>2025-04-27T16:57:20.023Z</updated>
     <entry>
         <id>http://example.com/2025/04/28/hello-world/</id>
         <title>Hello World</title>
